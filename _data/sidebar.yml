@@ -1,0 +1,17 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+# Sidebar
+entries:
+- title: Sidebar
+  subcategories:
+
+  - title: Projects
+    items:
+    - title: LBJava
+      url: https://illinoiscogcomp.github.io/lbjava
+
+    - title: Saul
+      url: https://github.com/IllinoisCogComp/saul
+
+    - title: And many others!
+    

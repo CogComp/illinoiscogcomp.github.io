@@ -1,1 +1,0 @@
-# illinoiscogcomp.github.io
