@@ -90,5 +90,13 @@ div#mysidebar {
 footer {
     font-size: 11px;
     color: #bfbfbf;
+}
 
+.cardlink {
+    color: black;
+
+}
+
+.cardlink:hover {
+    border: 1px solid black;
 }
